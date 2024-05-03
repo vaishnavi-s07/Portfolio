@@ -1,0 +1,34 @@
+[
+
+  {
+    "name": "DVOC Website",
+    "desc": "Diploma in Vocational Courses website. Built using ReactJS, Chakra UI, React Router.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Amazon Clone",
+    "desc": "Full-Stack Amazon Clone Using MERN Stack. With all major features and Firebase authentication.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "E-Gram Panchayat",
+    "desc": "E-Gram Panchayat website. Built using HTML, CSS, Php.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+ 
+]
